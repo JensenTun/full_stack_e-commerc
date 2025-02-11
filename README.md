@@ -1,1 +1,12 @@
 # full_stack_e-commerc
+![Login Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/1.png)
+![Register Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/2.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/3.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/4.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/5.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/6.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/7.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/8.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/9.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/10.png)
+![Home Screen](https://github.com/JensenTun/full_stack_e-commerc/blob/main/11.png)
